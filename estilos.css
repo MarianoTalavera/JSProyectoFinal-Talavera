@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noticia Text', serif;
+}
+
+.imagen{
+    max-width:100%;
+}
+a{
+    cursor:pointer;
+}
+
+.boton{
+    opacity:0;
+}
+
+.container-fluid {
+    background: linear-gradient(#d7e8d2, #3ab02b)
+}
+
+body{
+    background-color: #ccee9f;
+    overflow-x: hidden;
+}
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:1.5rem;
+}
+.img-carrito{
+    width:200px;
+} 
+.modal-content{
+    background-color: #E3D8D6;
+}
+.parrafo{
+    font-weight: 700;
+    font-style:italic;
+}
+#precioTotal{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+
+.modal-body {
+    background-color: rgb(115, 250, 115);
+}
+
+.modal-header {
+    background-color: rgb(115, 250, 115);
+}
+
+.modal-footer {
+    background-color: rgb(115, 250, 115);
+}
+
+
+.close {
+    background-color: white;
+}

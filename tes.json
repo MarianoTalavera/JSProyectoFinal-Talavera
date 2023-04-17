@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "nombre": "Té Blanco",
+    "cantidad": 1,
+    "desc": "Suave y refrescante",
+    "precio": 387.50,
+    "img": "img/teblanco2.jpg"
+},
+{ 
+    "id": 2,
+    "nombre": "Té Verde",
+    "cantidad": 1,
+    "desc": "Saludable y claro",
+    "precio": 350.50,
+    "img": "img/teverde2.jpg"
+},
+
+{
+    "id": 3,
+    "nombre": "Té Negro",
+    "cantidad": 1,
+    "desc": "Distinguido y fornido",
+    "precio": 254.50,
+    "img": "img/tenegro2.jpg"  
+},
+
+
+{
+    "id": 4,
+    "nombre": "Té Rojo",
+    "cantidad": 1,
+    "desc": "Aromático y singular",
+    "precio": 266.50,
+    "img": "img/terojo2.jpg"
+},
+
+{
+    "id": 5,
+    "nombre": "Té Oolong",
+    "cantidad": 1,
+    "desc": "Intenso y místico",
+    "precio": 423.50,
+    "img": "img/teoolong2.jpg"
+},
+
+{
+    "id": 6,
+    "nombre": "Té Chai",
+    "cantidad": 1,
+    "desc": "Especiado y exótico",
+    "precio": 471.50,
+    "img": "img/techai2.jpg"
+},
+
+{
+    "id": 7,
+    "nombre": "Té herbal # 1",
+    "cantidad": 1,
+    "desc": "Digestivo y dulce",
+    "precio": 360.50,
+    "img": "img/tedigestivo1.jpg"
+},
+
+{
+    "id": 8,
+    "nombre": "Té herbal # 2",
+    "cantidad": 1,
+    "desc": "Relajante y generoso",
+    "precio": 400.50,
+    "img": "img/terelax1.jpg"
+}
+
+]
